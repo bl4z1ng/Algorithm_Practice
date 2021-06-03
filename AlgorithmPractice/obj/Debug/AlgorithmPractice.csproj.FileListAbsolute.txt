@@ -1,0 +1,7 @@
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\bin\Debug\AlgorithmPractice.exe.config
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\bin\Debug\AlgorithmPractice.exe
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\bin\Debug\AlgorithmPractice.pdb
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\obj\Debug\AlgorithmPractice.csproj.AssemblyReference.cache
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\obj\Debug\AlgorithmPractice.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\obj\Debug\AlgorithmPractice.exe
+E:\Projects\C#\Practice\Algorithm_Practice\AlgorithmPractice\obj\Debug\AlgorithmPractice.pdb

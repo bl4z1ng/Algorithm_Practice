@@ -25,6 +25,9 @@ namespace AlgorithmPractice
                 case "1":
                     Colatz_Conjecture_Algorithm.Process();
                     break;
+                case "2":
+                    MergeSort.Process();
+                    break;
                 default:
                     break;
             }

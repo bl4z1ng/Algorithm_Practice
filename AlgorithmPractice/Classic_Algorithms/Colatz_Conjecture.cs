@@ -33,6 +33,7 @@ namespace AlgorithmPractice.Classic_Algorithms
             {
                 inputNumber = inputNumber % 2 == 0 ? inputNumber / 2 : inputNumber * 3 + 1;
                 counter++;
+                Console.WriteLine($"Current number: {inputNumber}, iteration {counter}");
 
             } while (inputNumber != 1);
 

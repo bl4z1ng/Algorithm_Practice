@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Classic_Algorithms\Colatz_Conjecture.cs" />
     <Compile Include="Classic_Algorithms\IAlgorithm.cs" />
+    <Compile Include="Classic_Algorithms\MergeSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

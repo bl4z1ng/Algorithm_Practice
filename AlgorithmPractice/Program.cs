@@ -9,7 +9,7 @@ namespace AlgorithmPractice
 {
     class Program
     {
-        public static IList<string> Algorithm_Collection = new List<string> { "1. Colatz_Conjecture" };
+        public static IList<string> Algorithm_Collection = new List<string> { "1. Colatz_Conjecture", "2. Merge_Sort" };
 
         static void Main()
         {

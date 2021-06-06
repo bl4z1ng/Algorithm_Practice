@@ -9,7 +9,7 @@ namespace AlgorithmPractice
 {
     class Program
     {
-        public static IList<string> Algorithm_Collection = new List<string> { "1. Colatz_Conjecture", "2. Merge_Sort" };
+        public static IList<string> Algorithm_Collection = new List<string> { "1. Colatz_Conjecture", "2. Merge_Sort" , "3. Bubble_Sort"};
 
         static void Main()
         {
@@ -27,6 +27,9 @@ namespace AlgorithmPractice
                     break;
                 case "2":
                     MergeSort.Process();
+                    break;
+                case "3":
+                    BubbleSort.Process();
                     break;
                 default:
                     break;
